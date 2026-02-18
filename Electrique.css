@@ -404,6 +404,11 @@ padding-left:10px ;
         display:block;
         
     }
+    .bloc_foot{
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+    }
 
     .foot, .footer-links, .footer-socials, .footer-bottom{
         padding: 10px 10px;
